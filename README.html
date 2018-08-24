@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8"/>
+	<link type="text/css" rel="stylesheet" href="shared/css/style.css"/>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({ TeX: { equationNumbers: {autoNumber: "all"} } });
+</script>
+<script type="text/javascript" src="shared/js/MathJax/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+</head>
+<body>
+
+<div style="display:none">
+$\newcommand{\A}{\mat{A}}$
+$\newcommand{\B}{\mat{B}}$
+$\newcommand{\C}{\mat{C}}$
+$\newcommand{\D}{\mat{D}}$
+$\newcommand{\E}{\mat{E}}$
+$\newcommand{\F}{\mat{F}}$
+$\newcommand{\G}{\mat{G}}$
+$\newcommand{\H}{\mat{H}}$
+$\newcommand{\I}{\mat{I}}$
+$\newcommand{\K}{\mat{K}}$
+$\newcommand{\L}{\mat{L}}$
+$\newcommand{\M}{\mat{M}}$
+$\newcommand{\N}{\mat{N}}$
+$\newcommand{\One}{\mathbf{1}}$
+$\newcommand{\P}{\mat{P}}$
+$\newcommand{\Q}{\mat{Q}}$
+$\newcommand{\Rot}{\mat{R}}$
+$\newcommand{\R}{\mathbb{R}}$
+$\newcommand{\S}{\mathcal{S}}$
+$\newcommand{\T}{\mat{T}}$
+$\newcommand{\U}{\mat{U}}$
+$\newcommand{\V}{\mat{V}}$
+$\newcommand{\W}{\mat{W}}$ 
+$\newcommand{\X}{\mat{X}}$
+$\newcommand{\Y}{\mat{Y}}$
+$\newcommand{\argmax}{\mathop{\text{argmax}}}$
+$\newcommand{\argmin}{\mathop{\text{argmin}}}$
+$\newcommand{\c}{\vec{c}}$
+$\newcommand{\d}{\vec{d}}$
+$\newcommand{\e}{\vec{e}}$
+$\newcommand{\f}{\vec{f}}$
+$\newcommand{\g}{\vec{g}}$
+$\newcommand{\mat}[1]{\mathbf{#1}}$
+$\newcommand{\min}{\mathop{\text{min}}}$
+$\newcommand{\n}{\vec{n}}$
+$\newcommand{\p}{\vec{p}}$
+$\newcommand{\q}{\vec{q}}$
+$\newcommand{\r}{\vec{r}}$
+$\newcommand{\transpose}{{\mathsf T}}$
+$\newcommand{\tr}[1]{\mathop{\text{tr}}{\left(#1\right)}}$
+$\newcommand{\t}{\vec{t}}$
+$\newcommand{\u}{\vec{u}}$
+$\newcommand{\vec}[1]{\mathbf{#1}}$
+$\newcommand{\x}{\vec{x}}$
+$\newcommand{\y}{\vec{y}}$
+$\newcommand{\z}{\vec{z}}$
+$\renewcommand{\v}{\vec{v}}$
+</div>
+
+<h1 id="computergraphicscourse">Computer Graphics Course</h1>
+
+<p>Course material for an undergraduate level course in <a href="https://en.wikipedia.org/wiki/Computer_graphics">computer
+graphics</a></p>
+
+<p>Course designed by <a href="http://www.cs.toronto.edu/~jacobson/">Prof. Alec Jacobson</a>,
+David I.W. Levin and Karan Singh from University of Toronto, with assistance
+from Yotam Gingold at GMU.</p>
+
+<h2 id="prerequisitesanddependencies">Prerequisites and dependencies</h2>
+
+<p>In general, the materials in this course assume that students should have
+already taken <strong>Linear Algebra</strong> and <strong>Calculus</strong>.</p>
+
+<p>Students should have already taken <strong>Introduction to Computer Science</strong> and should
+be proficient in computer programming (in any language) and should feel
+comfortable programming in <strong>C++</strong>. </p>
+
+<p>Some coding assignments make use of
+<a href="https://en.wikipedia.org/wiki/Eigen_(C%2B%2B_library)">Eigen</a>, an open-source
+linear algebra library; and <a href="http://libigl.github.io/libigl/">libigl</a>, an
+open-source geometry processing library. Each assigment is built using
+<a href="https://en.wikipedia.org/wiki/CMake">CMake</a>.</p>
+
+<h2 id="organization">Organization</h2>
+
+<p>The course is structured to run with fast paced <em>weekly</em> assignments in the
+following order:</p>
+
+<ol>
+<li><a href="https://github.com/alecjacobson/computer-graphics-raster-images">Introduction &amp; Raster Images</a></li>
+<li><a href="https://github.com/alecjacobson/computer-graphics-ray-casting">Ray Casting</a></li>
+<li><a href="https://github.com/alecjacobson/computer-graphics-ray-tracing">Ray Tracing</a></li>
+</ol>
+
+<p>Besides the introduction, there is no strict ordering to these topics.</p>
+
+<p>Each topic has its own git repository. Inside each, there is a <code>README.md</code> file
+contains background information necessary for understanding the topic&#8217;s coding
+assignment. </p>
+
+<p>The
+<a href="https://github.com/alecjacobson/computer-graphics-raster-images">Introduction</a>
+<code>README.md</code> contains detailed information about compilation, file layout and
+assignment protocols. </p>
+
+<h2 id="wikipedia">Wikipedia</h2>
+
+<p>The background materials link heavily to Wikipedia articles. Sometimes the
+wikipedia articles relating to geomtry processing are less informative than they
+could be. Edit them!</p>
+
+<p>In university offerings of this course, 5% credit has been awarded to the entire
+class for collaboratively improving Wikipedia&#8217;s entries on geometry processing
+topics. </p>
+
+<h2 id="areyouaninstructor">Are you an instructor?</h2>
+
+<p>There are instructor repositories for all of the assignments above. If you&#8217;re an
+instructor for a geometry processing course, send an email to
+jacobson@cs.toronto.edu for an invitation.</p>
+
+<h3 id="correspondingsolutioninstructorprivatereposarelocatedat:">Corresponding solution/instructor (private) repos are located at:</h3>
+
+<ol>
+<li><a href="https://github.com/alecjacobson/computer-graphics-raster-images-solution">Introduction &amp; Raster Images</a></li>
+<li><a href="https://github.com/alecjacobson/computer-graphics-ray-casting-solution">Ray Casting</a></li>
+<li><a href="https://github.com/alecjacobson/computer-graphics-ray-tracing-solution">Ray Tracing</a></li>
+</ol>
+
+</body>
+</html>
