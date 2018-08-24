@@ -42,6 +42,16 @@ The
 `README.md` contains detailed information about compilation, file layout and
 assignment protocols. 
 
+## Textbook
+
+![The Book.](https://www.cs.cornell.edu/~srm/fcg4/K22616_cover-300.jpg)
+
+These assignments were prepared to closely follow:
+
+[_Fundamentals of Computer Graphics, Fourth
+Edition_](https://www.cs.cornell.edu/~srm/fcg4/), Steve Marschner, Pete Shirley,
+et al. 2015.
+
 ## Wikipedia
 
 The background materials link heavily to Wikipedia articles. Sometimes the
