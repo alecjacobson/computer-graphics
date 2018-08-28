@@ -30,8 +30,13 @@ following order:
   1. [Introduction & Raster Images](https://github.com/alecjacobson/computer-graphics-raster-images)
   2. [Ray Casting](https://github.com/alecjacobson/computer-graphics-ray-casting)
   3. [Ray Tracing](https://github.com/alecjacobson/computer-graphics-ray-tracing)
+  4. [Meshes](https://github.com/alecjacobson/computer-graphics-meshes)
 
-Besides the introduction, there is no strict ordering to these topics.
+There is a slight dependence to these assignments:
+
+  - [Ray Casting](https://github.com/alecjacobson/computer-graphics-ray-casting)
+    before [Ray
+    Tracing](https://github.com/alecjacobson/computer-graphics-ray-tracing)
 
 Each topic has its own git repository. Inside each, there is a `README.md` file
 contains background information necessary for understanding the topic's coding
