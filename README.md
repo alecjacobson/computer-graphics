@@ -61,12 +61,8 @@ et al. 2015.
 ## Wikipedia
 
 The background materials link heavily to Wikipedia articles. Sometimes the
-wikipedia articles relating to geomtry processing are less informative than they
+wikipedia articles relating to computer graphics are less informative than they
 could be. Edit them!
-
-In university offerings of this course, 5% credit has been awarded to the entire
-class for collaboratively improving Wikipedia's entries on geometry processing
-topics. 
 
 ## Are you an instructor?
 
