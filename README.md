@@ -31,6 +31,7 @@ following order:
   2. [Ray Casting](https://github.com/alecjacobson/computer-graphics-ray-casting)
   3. [Ray Tracing](https://github.com/alecjacobson/computer-graphics-ray-tracing)
   4. [Meshes](https://github.com/alecjacobson/computer-graphics-meshes)
+  5. [Boundary Volume Hierarchy](https://github.com/alecjacobson/computer-graphics-boundary-volume-hierarchy)
 
 There is a slight dependence to these assignments:
 
