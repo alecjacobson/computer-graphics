@@ -78,4 +78,5 @@ jacobson@cs.toronto.edu for an invitation.
   3. [Ray Tracing](https://github.com/alecjacobson/computer-graphics-ray-tracing-solution)
   4. [Meshes](https://github.com/alecjacobson/computer-graphics-meshes-solution)
   5. [Boundary Volume Hierarchy](https://github.com/alecjacobson/computer-graphics-boundary-volume-hierarchy-solution)
+  6. [Shader Pipeline](https://github.com/alecjacobson/computer-graphics-shader-pipeline-solution)
 
