@@ -33,6 +33,7 @@ following order:
   4. [Meshes](https://github.com/alecjacobson/computer-graphics-meshes)
   5. [Boundary Volume Hierarchy](https://github.com/alecjacobson/computer-graphics-boundary-volume-hierarchy)
   6. [Shader Pipeline](https://github.com/alecjacobson/computer-graphics-shader-pipeline)
+  7. [Kinematics](https://github.com/alecjacobson/computer-graphics-kinematics)
 
 There is a slight dependence to these assignments:
 
@@ -80,4 +81,4 @@ jacobson@cs.toronto.edu for an invitation.
   4. [Meshes](https://github.com/alecjacobson/computer-graphics-meshes-solution)
   5. [Boundary Volume Hierarchy](https://github.com/alecjacobson/computer-graphics-boundary-volume-hierarchy-solution)
   6. [Shader Pipeline](https://github.com/alecjacobson/computer-graphics-shader-pipeline-solution)
-
+  7. [Kinematics](https://github.com/alecjacobson/computer-graphics-kinematics-solution)
