@@ -31,6 +31,9 @@ following order:
   2. [Ray Casting](https://github.com/alecjacobson/computer-graphics-ray-casting)
   3. [Ray Tracing](https://github.com/alecjacobson/computer-graphics-ray-tracing)
   4. [Meshes](https://github.com/alecjacobson/computer-graphics-meshes)
+  5. [Boundary Volume Hierarchy](https://github.com/alecjacobson/computer-graphics-boundary-volume-hierarchy)
+  6. [Shader Pipeline](https://github.com/alecjacobson/computer-graphics-shader-pipeline)
+  7. [Kinematics](https://github.com/alecjacobson/computer-graphics-kinematics)
 
 There is a slight dependence to these assignments:
 
@@ -60,12 +63,8 @@ et al. 2015.
 ## Wikipedia
 
 The background materials link heavily to Wikipedia articles. Sometimes the
-wikipedia articles relating to geomtry processing are less informative than they
+wikipedia articles relating to computer graphics are less informative than they
 could be. Edit them!
-
-In university offerings of this course, 5% credit has been awarded to the entire
-class for collaboratively improving Wikipedia's entries on geometry processing
-topics. 
 
 ## Are you an instructor?
 
