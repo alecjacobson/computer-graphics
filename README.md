@@ -73,9 +73,31 @@ There are instructor repositories for all of the assignments above. If you're an
 instructor for a geometry processing course, send an email to
 jacobson@cs.toronto.edu for an invitation.
 
+> For my reference, I can add a new instructor with github id `[githubid]` to all solution repos using:
+>
+> ```
+> github-add-user -l -u alecjacobson  -r $(echo alecjacobson/computer-graphics-{raster-images,ray-casting,ray-tracing,bounding-volume-hierarchy,meshes,shader-pipeline,kinematics}-solution | tr ' ' ',') [githubid]
+> ```
+
 ### Corresponding solution/instructor (private) repos are located at:
 
   0. [Pre test](https://github.com/alecjacobson/computer-graphics-pre-test)
   1. [Introduction & Raster Images](https://github.com/alecjacobson/computer-graphics-raster-images-solution)
   2. [Ray Casting](https://github.com/alecjacobson/computer-graphics-ray-casting-solution)
   3. [Ray Tracing](https://github.com/alecjacobson/computer-graphics-ray-tracing-solution)
+  4. [Bounding Volume Hierarchy](https://github.com/alecjacobson/computer-graphics-bounding-volume-hierarchy-solution)
+  5. [Meshes](https://github.com/alecjacobson/computer-graphics-meshes-solution)
+  6. [Shader Pipeline](https://github.com/alecjacobson/computer-graphics-shader-pipeline-solution)
+  7. [Kinematics](https://github.com/alecjacobson/computer-graphics-kinematics-solution)
+
+## Future Assignments
+
+ - Ambient Occlusion + Occluding Contours (Multipass rendering)
+ - Boids
+ - Rigid Body with contacts
+ - Cloth Simulation
+ - Physically Based Real-Time Rendering
+ - Half-Edge Data-structre 
+ - 1D plotting (vector graphics line rasterization)
+ - Path Tracing, BRDFs
+ - Mesh Laplacians 
