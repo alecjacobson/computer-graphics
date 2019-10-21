@@ -75,7 +75,7 @@ jacobson@cs.toronto.edu for an invitation.
 > For my reference, I can add a new instructor with github id `[githubid]` to all solution repos using:
 >
 > ```
-> github-add-user -l -u alecjacobson  -r $(echo alecjacobson/computer-graphics-{raster-images,ray-casting,ray-tracing,bounding-volume-hierarchy,meshes,shader-pipeline,kinematics}-solution | tr ' ' ',') [githubid]
+> github-add-user -u alecjacobson -r $(echo alecjacobson/computer-graphics-{raster-images,ray-casting,ray-tracing,bounding-volume-hierarchy,meshes,shader-pipeline,kinematics}-solution | tr ' ' ',') [githubid]
 > ```
 
 ### Corresponding solution/instructor (private) repos are located at:
